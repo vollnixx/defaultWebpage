@@ -1,6 +1,6 @@
 # defaultWebpage
 
-This is an alternative for those people who are tired of the default index.html which comes with a webserver install.
+This is an alternative for people who are tired of the default index.html which comes with a webserver install.
 Like:
 
     It works!
