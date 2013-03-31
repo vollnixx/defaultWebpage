@@ -7,4 +7,4 @@ Like:
 
 Thanks to [hhh316](http://seamless-pixels.blogspot.com) for the seamless grass texture.
 
-![What it looks like:](http://i47.tinypic.com/9k87iu.jpg)
+![What it looks like:](http://s14.postimg.org/mpkwgj6z5/demo.jpg)
