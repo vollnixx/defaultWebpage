@@ -5,5 +5,4 @@ Example the simple:
 
     It works!
 
-Thanks to hhh316 for the seamless grass texture:
-http://seamless-pixels.blogspot.com
+Thanks to [hhh316](http://seamless-pixels.blogspot.com) for the seamless grass texture.
